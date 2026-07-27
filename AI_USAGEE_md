@@ -1,0 +1,46 @@
+# AI Usage Report
+
+## AI Tool Used
+
+ ChatGPT
+
+## How AI Was Used
+
+AI was used to:
+
+ Understand the assignment requirements
+ Generate the initial Django project structure
+ Suggest Django models
+ Suggest REST API implementation
+ Help write the recommendation algorithm
+ Help write unit tests
+ Help prepare project documentation
+
+## Accepted Output
+
+ Project structure
+ Models
+ Serializers
+ API views
+ Basic recommendation logic
+ Unit test examples
+
+## Modified Output
+
+ Updated recommendation logic based on project requirements.
+ Improved API responses.
+ Adjusted code formatting and naming for consistency.
+
+## Mistakes Found
+
+ Some generated code required corrections for imports and project-specific file names.
+ API routing and service imports needed manual fixes.
+
+## Verification
+
+The project was verified by:
+
+ Running Django migrations
+ Testing all REST APIs
+ Verifying recommendation output
+ Running Django unit tests successfully
